@@ -7,5 +7,6 @@ public class Reciept {
         double price = 7.25;
         int amount = 2;
         System.out.println("I bought " + amount + " " + product + " " + "for " + "$" + price);
+
     }
 }
