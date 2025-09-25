@@ -31,7 +31,6 @@ public class VariableApp {
         // whether it is raining (true or false)
         boolean raining = false;
         System.out.println("It is raining: " + raining);
-        //
 
 
 
